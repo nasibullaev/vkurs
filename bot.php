@@ -2,7 +2,7 @@
 <?php
 error_reporting(0);
 ob_start();
-define('API_KEY', '1025601817:AAE8H_k5Of85hlp6ae-76Qif6AsIgZ8q0Hg');
+define('API_KEY', 'token');
 $admin = 1062436669;
 $link = "http://cbu.uz/uzc/arkhiv-kursov-valyut/xml/";
 
