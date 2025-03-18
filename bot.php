@@ -3,7 +3,7 @@
 error_reporting(0);
 ob_start();
 define('API_KEY', 'token');
-$admin = 1062436669;
+$admin = 12345678; // id of the admin
 $link = "http://cbu.uz/uzc/arkhiv-kursov-valyut/xml/";
 
 function typing()
